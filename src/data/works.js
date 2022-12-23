@@ -1,30 +1,30 @@
 export default [
 	{
-		title: 'TechHub-Blog',
+		title: 'Calculadora',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/techHub-blog/main/banner.png',
-		tech: ['React JS', 'Gatsby JS', 'Sanity.io'],
-		workUrl: 'https://github.com/ShaifArfan/techHub-blog',
+			'./images/Calculadoragif.gif',
+		tech: ['JavaScript', 'CSS', 'HTML','GIT','FIGMA'],
+		workUrl: 'https://github.com/Mafesita23/Calculadora-Mafe',
 	},
 	{
-		title: "Shaif'f Cuisine",
+		title: "Wheel Of Doom",
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/shaif-s-cuisine/main/readmeImg/banner.png',
-		tech: ['HTML', 'CSS', 'Netlify'],
-		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
+			'./images/WheelOfDoom.gif',
+		tech: ['JavaScript','HTML', 'CSS', 'GIT','FIGMA'],
+		workUrl: 'https://github.com/jefdavgar/TINGUA',
 	},
 	{
-		title: "Ayan's Portfolio Website",
+		title: "Humedinformate",
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/AYANs-portfolio/main/ReadMeImages/ReadMeBanner.png',
+		'./images/Humedinformate.gif',
+		tech: ['HTML', 'CSS', 'FIGMA'],
+		workUrl: 'https://github.com/Mafesita23/humedales',
+	},
+	{
+		title: 'Consumo de API',
+		imgUrl:
+		'./images/APIrickandmorty.gif',
 		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
-	},
-	{
-		title: 'Artistic',
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/artistic',
+		workUrl: 'https://github.com/Mafesita23/RickandMortyAPI',
 	},
 ];
