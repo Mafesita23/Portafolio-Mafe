@@ -16,11 +16,11 @@ function App() {
 		}
 	}, []);
 
-	const handleThemeSwitch = () => {
+	const handleThemeSwitch = (e) => {
 		setTheme(theme === 'dark' ? 'light' : 'dark');
 	};
 
-	useEffect(() => {
+	useEffect((e) => {
 		if (theme === 'dark') {
 			document.documentElement.classList.add('dark');
 		} else {
@@ -35,7 +35,7 @@ function App() {
 				onClick={handleThemeSwitch}
 				className="fixed z-10 right-2 top-2 bg-indigo-500 text-lg p-1 rounded-md"
 			>
-				{theme === 'dark' ? '🌙' : '🌞'}
+				{theme === 'dark' ? '🌚' : '🌝'}
 			</button>
 			<div className="bg-white dark:bg-slate-900 min-h-screen font-inter ">
 				<div className="max-w-5xl w-11/12 mx-auto">

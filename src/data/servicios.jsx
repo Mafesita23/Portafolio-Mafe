@@ -16,31 +16,31 @@ export default [
 		title: 'Back end',
 		icon: <FaHandHoldingHeart className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Interfaz del usuario',
 	},
 	{
-		title: 'Web Development',
+		title: 'FIGMA',
 		icon: <VscCode className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Diseño pre construido',
 	},
 	{
-		title: 'Web Development',
+		title: 'SCRUM',
 		icon: <FaCalendarTimes className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Metodologia SCRUM en proyectos',
 	},
 	{
-		title: 'Web Development',
+		title: 'JavaScript',
 		icon: <VscCode className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Manejo de eventos, alertas y logica.',
 	},
 	{
-		title: 'Web Development',
+		title: 'VITE',
 		icon: <VscCode className="w-full h-full" />,
 		description:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.',
+			'Manejo de VITE con REACT',
 	},
 	
 ];
