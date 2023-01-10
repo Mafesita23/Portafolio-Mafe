@@ -34,7 +34,7 @@ export default [
 		title: 'JavaScript',
 		icon: <VscCode className="w-full h-full" />,
 		description:
-			'Manejo de eventos, alertas y logica.',
+			' mejorando la experiencia del usuario de un sitio web.',
 	},
 	{
 		title: 'VITE',
