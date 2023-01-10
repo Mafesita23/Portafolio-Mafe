@@ -31,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./src/images/Mafelogo.png"
+            src="./src/assets/images/Mafelogo.png"
           />
         </div>
       </div>
