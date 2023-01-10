@@ -11,7 +11,7 @@ export default function About() {
           </h1>
           <h2> Me encanta construir aplicaciones web.</h2>
           <p className="mb-8 leading-relaxed">
-          Me presento soy una mujer ambientalista, creativa, con comunicación acertiva.
+          Me presento soy una mujer ambientalista, creativa, con comunicación asertiva.
           </p>
           <div className="flex justify-center">
             
