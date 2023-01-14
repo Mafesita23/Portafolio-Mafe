@@ -1,4 +1,5 @@
 import React from "react";
+import Logo from "../assets/Images/Mafelogo.png"
 
 export default function About() {
   return (
@@ -31,7 +32,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./src/assets/images/Mafelogo.png"
+            src={Logo}
           />
         </div>
       </div>
