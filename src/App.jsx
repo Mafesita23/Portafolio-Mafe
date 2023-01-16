@@ -3,7 +3,7 @@ import About from './components/About';
 import Footer from './components/Footer';
 import Quiensoy from './components/Quiensoy';
 import Works from './components/Works';
-import Service from './components/Service'
+import Service from './components/Service';
 
 function App() {
 	const [theme, setTheme] = useState(null);
