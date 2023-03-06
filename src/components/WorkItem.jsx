@@ -6,7 +6,7 @@ function WorkItem({ imgUrl, title, tech, workUrl }) {
 			href={workUrl}
 			target="_blank"
 			rel="noreferrer"
-			className="bg-slate-300 dark:bg-slate-800 rounded-lg overflow-hidden"
+			className="bg-pink-300 dark:bg-slate-800 rounded-lg overflow-hidden"
 		>
 			<img
 				src={imgUrl}

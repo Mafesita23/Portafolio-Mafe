@@ -40,7 +40,7 @@ export default [
 		title: 'VITE',
 		icon: <VscCode className="w-full h-full" />,
 		description:
-			'Manejo de VITE con REACT',
+			'Manejo de VITE con REACT y tailwind',
 	},
 	
 ];

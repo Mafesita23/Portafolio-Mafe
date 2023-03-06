@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
+import Navegacion from './components/Navegacion';
 import About from './components/About';
-import Footer from './components/Footer';
+import Contacto from './components/Contacto';
 import Quiensoy from './components/Quiensoy';
 import Works from './components/Works';
 import Service from './components/Service';
+
 
 function App() {
 	const [theme, setTheme] = useState(null);
@@ -39,11 +41,12 @@ function App() {
 			</button>
 			<div className="bg-white dark:bg-slate-900 min-h-screen font-inter ">
 				<div className="max-w-5xl w-11/12 mx-auto">
+					<Navegacion />
 					<Quiensoy />
 					<Service />
 					<Works />
 					<About />
-					<Footer />
+					<Contacto />
 				</div>
 			</div>
 		</>
